@@ -1,2 +1,2 @@
 # DynamicDropDown
-DynamicDropDown using Ajax, JSP and Servlet
+Dynamic Drop Down using Ajax, JSP and Servlet
